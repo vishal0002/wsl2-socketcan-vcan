@@ -159,6 +159,9 @@ ip link add dev vcan0 type vcan
 ```bash
 sudo apt install net-tools
 ```
+---
+
+If this helped you, consider giving the repo a ⭐
 
 ---
 
