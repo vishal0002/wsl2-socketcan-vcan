@@ -161,6 +161,15 @@ sudo apt install net-tools
 ```
 ---
 
+# WSL2 SocketCAN (vcan) Enabled Kernel
+
+> **🚀 Trending on r/embedded**
+> 
+> **Context:** This custom kernel was engineered as a foundational utility for **EVO vHIL**—a full-stack virtual validation framework for EV powertrains. It enables native CAN bridging between Renode simulations and Android Automotive without physical USB-to-CAN adapters.
+> 
+> 👉 **[Read the full architectural write-up on my portfolio: vishal.evovhil.com/wsl2-socketcan](https://vishal.evovhil.com/wsl2-socketcan/)**
+
+---
 If this helped you, consider giving the repo a ⭐
 
 ---
